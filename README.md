@@ -5,12 +5,19 @@ It significantly enhances the customer experience, optimizing both cost-effectiv
 
 # Charts Used:
 a) Scatter plot
+
 b) Water fall chart
+
 c) Score cards
+
 d) Play axis button
+
 e) Heatmap
+
 f) Images
+
 g) Word cloud generator
+
 h) line chart
 
 # Acknowledgements
